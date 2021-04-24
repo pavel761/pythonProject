@@ -1,2 +1,1 @@
-print ("hello")
-print ("hello world2")
+дед репку посадил
